@@ -1,8 +1,8 @@
 cask "pasty" do
-  version "1.0.3"
-  sha256 "0a32aa69678851a0809064220c24faf47918d170c02f321c7dd379c9dd692ce3"
+  version "1.0.4"
+  sha256 "38ed1c5d8f54d8c8220455c3da1358ec23387766b42ecdf57f01130b11133f03"
 
-  url "https://github.com/scubers/pasty-release/releases/download/v1.0.3/Pasty-1.0.3.dmg"
+  url "https://github.com/scubers/pasty-release/releases/download/v1.0.4/Pasty-1.0.4.dmg"
   name "Pasty"
   desc "Clipboard manager for macOS"
   homepage "https://official.pastyclip.com/"
