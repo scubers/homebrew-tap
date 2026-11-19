@@ -1,8 +1,8 @@
 cask "clipbus" do
-  version "3.4.0"
-  sha256 "45d5ec4e697bcc3f8829c90f4c44f40e4d166285a53ef94081ef46ccd3717a6a"
+  version "3.5.0"
+  sha256 "d708f6b4b31458e0c158818b4e43ed8e8284b85130d0b94124688b7dfc2d3def"
 
-  url "https://github.com/scubers/clipbus-release/releases/download/v3.4.0/Clipbus-3.4.0.dmg"
+  url "https://github.com/scubers/clipbus-release/releases/download/v3.5.0/Clipbus-3.5.0.dmg"
   name "Clipbus"
   desc "Clipboard manager for macOS"
   homepage "https://clipbus.com/"
